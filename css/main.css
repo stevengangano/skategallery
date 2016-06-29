@@ -3,3 +3,36 @@
 	left: 675px;
     bottom: 35px;x;
 }
+
+.navbar-brand>img {
+    display: block;
+    height: 25px;
+}
+
+html {
+	height: 100%;
+}
+
+body  {
+    background-image: url("../img/cover.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+	background-position: center;
+}
+
+hr {
+	width: 400px;
+	border-top: solid 1px color;
+	border-bottom: solid 1px color;
+}
+
+#content {
+	color: orange;
+	text-align: center;
+	padding-top: 15%;
+
+}
+
+.footer {
+	background: #333;
+}
